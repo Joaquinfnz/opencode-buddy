@@ -35,16 +35,18 @@ Ejemplo de eclosionar:
 ```
 🌟🌟🌟 ECLOSIONANDO... 🌟🌟🌟
 
-   /\  /\
-  /  \/  \
- /   /\   \
-|___/  \___\
- \  /\  /
-  \/  \/
-  /|  |\
- / |  | \
-   |  |
-  _|  |_
+      /\      /\
+     /  \    /  \
+    /    \  /    \
+   / /\   \/   /\ \
+  / /  \      /  \ \
+ / /    \____/    \ \
+  \|    /    \    |/
+   \   /      \   /
+    \_/   /\   \_/
+      | /  \  |
+      |/    \ |
+      /      \
 
 Llamavitae ★ | 🍖 100% ⚡ 100% 🧼 100% ❤️ 100% | 🤩
 
@@ -81,11 +83,16 @@ Cada comida afecta hambre y felicidad de forma distinta.
 ### Gato
 
 ```
-  /\_/\
- ( o.o )
-  > ^ <
- /|   |\
-(_|   |_)
+    /\_/\
+   ( o.o )
+    > ^ <
+   /     \
+  / |   | \
+ /  |   |  \
+    |___|
+    |   |
+   _|   |_
+  (___)(___)
 ```
 
 Independiente, elegante, sarcasmatico. Stats inclinados a CHAOS y SNARK.
@@ -93,16 +100,18 @@ Independiente, elegante, sarcasmatico. Stats inclinados a CHAOS y SNARK.
 ### Dragon
 
 ```
-   /\  /\
-  /  \/  \
- /   /\   \
-|___/  \___\
- \  /\  /
-  \/  \/
-  /|  |\
- / |  | \
-   |  |
-  _|  |_
+      /\      /\
+     /  \    /  \
+    /    \  /    \
+   / /\   \/   /\ \
+  / /  \      /  \ \
+ / /    \____/    \ \
+  \|    /    \    |/
+   \   /      \   /
+    \_/   /\   \_/
+      | /  \  |
+      |/    \ |
+      /      \
 ```
 
 Sabio, poderoso, protector. Stats inclinados a WISDOM y DEBUGGING.
@@ -110,13 +119,15 @@ Sabio, poderoso, protector. Stats inclinados a WISDOM y DEBUGGING.
 ### Capibara
 
 ```
-   _____
-  /     \
- |  o  o |
- |  --  |
-  \_____/
-   |   |
-   |___|
+      _________
+     /         \
+    |  o     o  |
+    |     ==    |
+     \         /
+      \_______/
+      |       |
+     _|       |_
+    (___________)
 ```
 
 Relajado, amigable, zen. Stats inclinados a PATIENCE, SNARK bajo.

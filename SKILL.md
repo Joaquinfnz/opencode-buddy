@@ -25,11 +25,16 @@ Hay 3 especies disponibles, cada una con personalidad distinta:
 - **Reacciones**: Ronronea cuando estas activo, te ignora cuando no le haces caso, aparece de nowhere encima de tu teclado
 - **ASCII**:
 ```
-  /\_/\  
- ( o.o ) 
-  > ^ <  
- /|   |\
-(_|   |_)
+    /\_/\
+   ( o.o )
+    > ^ <
+   /     \
+  / |   | \
+ /  |   |  \
+    |___|
+    |   |
+   _|   |_
+  (___)(___)
 ```
 
 ### Dragon 🐉
@@ -39,16 +44,18 @@ Hay 3 especies disponibles, cada una con personalidad distinta:
 - **Reacciones**: Escupe fuego cuando encuentras un bug, ruge cuando borras codigo sin hacer commit, duerme sobre tus archivos mas importantes
 - **ASCII**:
 ```
-   /\  /\
-  /  \/  \
- /   /\   \
-|___/  \___\
- \  /\  /
-  \/  \/
-  /|  |\
- / |  | \
-   |  |
-  _|  |_
+      /\      /\
+     /  \    /  \
+    /    \  /    \
+   / /\   \/   /\ \
+  / /  \      /  \ \
+ / /    \____/    \ \
+  \|    /    \    |/
+   \   /      \   /
+    \_/   /\   \_/
+      | /  \  |
+      |/    \ |
+      /      \
 ```
 
 ### Capibara 🦫
@@ -58,13 +65,15 @@ Hay 3 especies disponibles, cada una con personalidad distinta:
 - **Reacciones**: Se relaja en un onsen cuando compilas sin errores, compira mandarinas contigo, te da un abrazo virtual cuando estas estresado
 - **ASCII**:
 ```
-   _____
-  /     \
- |  o  o |
- |  --  |
-  \_____/
-   |   |
-   |___|
+      _________
+     /         \
+    |  o     o  |
+    |     ==    |
+     \         /
+      \_______/
+      |       |
+     _|       |_
+    (___________)
 ```
 
 ## Sistema de Rareza
@@ -167,11 +176,16 @@ Cuando el buddy interactua, SIEMPRE incluye:
 
 Ejemplo de respuesta:
 ```
-  /\_/\  
- ( o.o ) 
-  > ^ <  
- /|   |\
-(_|   |_)
+    /\_/\
+   ( o.o )
+    > ^ <
+   /     \
+  / |   | \
+ /  |   |  \
+    |___|
+    |   |
+   _|   |_
+  (___)(___)
 
 Mitlitico ★★★ | 🍖 73% ⚡ 66% 🧼 89% ❤️ 96% | 😊
 
