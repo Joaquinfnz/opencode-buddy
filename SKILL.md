@@ -26,15 +26,11 @@ Hay 3 especies disponibles, cada una con personalidad distinta:
 - **ASCII**:
 ```
     /\_/\
-   ( o.o )
+   ( ◠ω◠ )
     > ^ <
-   /     \
-  / |   | \
- /  |   |  \
-    |___|
-    |   |
-   _|   |_
-  (___)(___)
+   /|   |\
+  (_|   |_)
+      ♡
 ```
 
 ### Dragon 🐉
@@ -44,18 +40,13 @@ Hay 3 especies disponibles, cada una con personalidad distinta:
 - **Reacciones**: Escupe fuego cuando encuentras un bug, ruge cuando borras codigo sin hacer commit, duerme sobre tus archivos mas importantes
 - **ASCII**:
 ```
-      /\      /\
-     /  \    /  \
-    /    \  /    \
-   / /\   \/   /\ \
-  / /  \      /  \ \
- / /    \____/    \ \
-  \|    /    \    |/
-   \   /      \   /
-    \_/   /\   \_/
-      | /  \  |
-      |/    \ |
-      /      \
+     /\
+    /^^\
+   ( ◕ω◕ )
+    > ◈ <
+   /|   |\
+  (_|   |_)
+   ~🔥~
 ```
 
 ### Capibara 🦫
@@ -65,15 +56,14 @@ Hay 3 especies disponibles, cada una con personalidad distinta:
 - **Reacciones**: Se relaja en un onsen cuando compilas sin errores, compira mandarinas contigo, te da un abrazo virtual cuando estas estresado
 - **ASCII**:
 ```
-      _________
-     /         \
-    |  o     o  |
-    |     ==    |
-     \         /
-      \_______/
-      |       |
-     _|       |_
-    (___________)
+      _____
+     /     \
+    | ◕   ◕ |
+    |   ▽   |
+     \_____/
+      |   |
+     _|   |_
+    (___)(___)
 ```
 
 ## Sistema de Rareza
@@ -177,15 +167,11 @@ Cuando el buddy interactua, SIEMPRE incluye:
 Ejemplo de respuesta:
 ```
     /\_/\
-   ( o.o )
+   ( ◠ω◠ )
     > ^ <
-   /     \
-  / |   | \
- /  |   |  \
-    |___|
-    |   |
-   _|   |_
-  (___)(___)
+   /|   |\
+  (_|   |_)
+      ♡
 
 Mitlitico ★★★ | 🍖 73% ⚡ 66% 🧼 89% ❤️ 96% | 😊
 
