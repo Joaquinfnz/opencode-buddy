@@ -39,7 +39,20 @@ Todo funciona con el comando `/buddy`:
 
 ## Instalacion
 
-Copia la carpeta `buddy/` en `~/.config/opencode/skills/` y reinicia OpenCode.
+Opcion rapida (una linea):
+
+```bash
+curl -sSL https://raw.githubusercontent.com/Joaquinfnz/opencode-buddy/main/install.sh | bash
+```
+
+O manualmente:
+
+```bash
+git clone https://github.com/Joaquinfnz/opencode-buddy.git ~/.config/opencode/skills/buddy --depth 1
+rm -rf ~/.config/opencode/skills/buddy/.git
+```
+
+Despues reinicia OpenCode y usa `/buddy` para eclosionar.
 
 ## Licencia
 
